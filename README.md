@@ -1,4 +1,4 @@
-# Quantile Regression: A Comprehensive Analysis  
+# Quantile Regression: A Robust Alternative to OLS  
 
 This project explores **Quantile Regression** as a powerful alternative to traditional Linear Regression, particularly for analyzing datasets with heteroscedasticity, outliers, or non-normal error distributions. While Linear Regression estimates the mean effect of predictors on the response variable, Quantile Regression goes beyond by modeling the relationship at different points (quantiles) of the response distribution.  
 
